@@ -1,0 +1,367 @@
+{
+  "tracks" : {
+    "href" : "https://api.spotify.com/v1/search?query=vertigo&type=track&offset=0&limit=5",
+    "items" : [ {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+          },
+          "href" : "https://api.spotify.com/v1/artists/51Blml2LZPmy7TTiAg47vQ",
+          "id" : "51Blml2LZPmy7TTiAg47vQ",
+          "name" : "U2",
+          "type" : "artist",
+          "uri" : "spotify:artist:51Blml2LZPmy7TTiAg47vQ"
+        } ],
+        "available_markets" : [ "CA", "MX", "US" ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/2nPJlUlcyQ24e1VdayD6TT"
+        },
+        "href" : "https://api.spotify.com/v1/albums/2nPJlUlcyQ24e1VdayD6TT",
+        "id" : "2nPJlUlcyQ24e1VdayD6TT",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/a2a8847ea810c00761edf6e1e1dd7e934de87b53",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/432d1f21f58ee382ab731328707dbbf6e88a834a",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/6c613071d94c9cc8f85c25857a90b0fb0bdd9b94",
+          "width" : 64
+        } ],
+        "name" : "How To Dismantle An Atomic Bomb",
+        "type" : "album",
+        "uri" : "spotify:album:2nPJlUlcyQ24e1VdayD6TT"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/51Blml2LZPmy7TTiAg47vQ",
+        "id" : "51Blml2LZPmy7TTiAg47vQ",
+        "name" : "U2",
+        "type" : "artist",
+        "uri" : "spotify:artist:51Blml2LZPmy7TTiAg47vQ"
+      } ],
+      "available_markets" : [ "CA", "MX", "US" ],
+      "disc_number" : 1,
+      "duration_ms" : 194520,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBAAN0400573"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/57ZXcBtCZXSg9TVV5xRdnR"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/57ZXcBtCZXSg9TVV5xRdnR",
+      "id" : "57ZXcBtCZXSg9TVV5xRdnR",
+      "name" : "Vertigo",
+      "popularity" : 48,
+      "preview_url" : "https://p.scdn.co/mp3-preview/d7391bc4350dda1f10cbb49da66664749e325fdf?cid=null",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:57ZXcBtCZXSg9TVV5xRdnR"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1WlxlG9IzXsq9MkneOPkxc"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1WlxlG9IzXsq9MkneOPkxc",
+          "id" : "1WlxlG9IzXsq9MkneOPkxc",
+          "name" : "Rob Gasser",
+          "type" : "artist",
+          "uri" : "spotify:artist:1WlxlG9IzXsq9MkneOPkxc"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7ddnIV2r4SLjuwyGlgLIWt"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7ddnIV2r4SLjuwyGlgLIWt",
+          "id" : "7ddnIV2r4SLjuwyGlgLIWt",
+          "name" : "Laura Brehm",
+          "type" : "artist",
+          "uri" : "spotify:artist:7ddnIV2r4SLjuwyGlgLIWt"
+        } ],
+        "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4osgBkkJHtp3WfjGs8SSOq"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4osgBkkJHtp3WfjGs8SSOq",
+        "id" : "4osgBkkJHtp3WfjGs8SSOq",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/6b6d63292d876ca9c8a4934101120bbab4e1d790",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/81d9cd6336e2a569daa613d5c72ac1058c16d9bd",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/237b93f61ec554c8f86e61bab0dfda6d0319eed5",
+          "width" : 64
+        } ],
+        "name" : "Vertigo",
+        "type" : "album",
+        "uri" : "spotify:album:4osgBkkJHtp3WfjGs8SSOq"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1WlxlG9IzXsq9MkneOPkxc"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1WlxlG9IzXsq9MkneOPkxc",
+        "id" : "1WlxlG9IzXsq9MkneOPkxc",
+        "name" : "Rob Gasser",
+        "type" : "artist",
+        "uri" : "spotify:artist:1WlxlG9IzXsq9MkneOPkxc"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7ddnIV2r4SLjuwyGlgLIWt"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7ddnIV2r4SLjuwyGlgLIWt",
+        "id" : "7ddnIV2r4SLjuwyGlgLIWt",
+        "name" : "Laura Brehm",
+        "type" : "artist",
+        "uri" : "spotify:artist:7ddnIV2r4SLjuwyGlgLIWt"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+      "disc_number" : 1,
+      "duration_ms" : 227852,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GB2LD0902454"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6jxVc6cGxv7BxuotdpQOyu"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6jxVc6cGxv7BxuotdpQOyu",
+      "id" : "6jxVc6cGxv7BxuotdpQOyu",
+      "name" : "Vertigo",
+      "popularity" : 46,
+      "preview_url" : "https://p.scdn.co/mp3-preview/7fc689c2629d55b232e5642d6628f3f1c5b13d73?cid=null",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:6jxVc6cGxv7BxuotdpQOyu"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+          },
+          "href" : "https://api.spotify.com/v1/artists/07YZf4WDAMNwqr4jfgOZ8y",
+          "id" : "07YZf4WDAMNwqr4jfgOZ8y",
+          "name" : "Jason Derulo",
+          "type" : "artist",
+          "uri" : "spotify:artist:07YZf4WDAMNwqr4jfgOZ8y"
+        } ],
+        "available_markets" : [ "IT", "US" ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4PeZu0It7qVrTG40t3HM9A"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4PeZu0It7qVrTG40t3HM9A",
+        "id" : "4PeZu0It7qVrTG40t3HM9A",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/679472c6c90c259f3ed625bfa495b5a202d60e66",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/4edd465a1a10c0ff15c903f0741aa29cb4a94ab7",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/afd216b2c11e58b7d7f1a89d34a20641bc7dac36",
+          "width" : 64
+        } ],
+        "name" : "Talk Dirty",
+        "type" : "album",
+        "uri" : "spotify:album:4PeZu0It7qVrTG40t3HM9A"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        },
+        "href" : "https://api.spotify.com/v1/artists/07YZf4WDAMNwqr4jfgOZ8y",
+        "id" : "07YZf4WDAMNwqr4jfgOZ8y",
+        "name" : "Jason Derulo",
+        "type" : "artist",
+        "uri" : "spotify:artist:07YZf4WDAMNwqr4jfgOZ8y"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2AQjGvtT0pFYfxR3neFcvz",
+        "id" : "2AQjGvtT0pFYfxR3neFcvz",
+        "name" : "Jordin Sparks",
+        "type" : "artist",
+        "uri" : "spotify:artist:2AQjGvtT0pFYfxR3neFcvz"
+      } ],
+      "available_markets" : [ "IT", "US" ],
+      "disc_number" : 1,
+      "duration_ms" : 233173,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USWB11303250"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3zOvcU16JjNFZU6F8Ul9G7"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3zOvcU16JjNFZU6F8Ul9G7",
+      "id" : "3zOvcU16JjNFZU6F8Ul9G7",
+      "name" : "Vertigo (feat. Jordin Sparks)",
+      "popularity" : 44,
+      "preview_url" : "https://p.scdn.co/mp3-preview/e2582761e0a1c87709bdb52e31833eeb329c07ae?cid=null",
+      "track_number" : 5,
+      "type" : "track",
+      "uri" : "spotify:track:3zOvcU16JjNFZU6F8Ul9G7"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ"
+          },
+          "href" : "https://api.spotify.com/v1/artists/67tgMwUfnmqzYsNAtnP6YJ",
+          "id" : "67tgMwUfnmqzYsNAtnP6YJ",
+          "name" : "Groove Armada",
+          "type" : "artist",
+          "uri" : "spotify:artist:67tgMwUfnmqzYsNAtnP6YJ"
+        } ],
+        "available_markets" : [ "AR", "BO", "CA", "CL", "JP", "PY", "US", "UY" ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1KzGIlZIlhRwUIoPlexdax"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1KzGIlZIlhRwUIoPlexdax",
+        "id" : "1KzGIlZIlhRwUIoPlexdax",
+        "images" : [ {
+          "height" : 631,
+          "url" : "https://i.scdn.co/image/99442860aaf186905ac324d11003bc2852f19590",
+          "width" : 640
+        }, {
+          "height" : 296,
+          "url" : "https://i.scdn.co/image/a588e7a0bdc8b7a211eb4d88e01da27d0eb964fb",
+          "width" : 300
+        }, {
+          "height" : 63,
+          "url" : "https://i.scdn.co/image/30bee125d23538c1f1c941422c1fe31bf659610e",
+          "width" : 64
+        } ],
+        "name" : "Vertigo",
+        "type" : "album",
+        "uri" : "spotify:album:1KzGIlZIlhRwUIoPlexdax"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/67tgMwUfnmqzYsNAtnP6YJ",
+        "id" : "67tgMwUfnmqzYsNAtnP6YJ",
+        "name" : "Groove Armada",
+        "type" : "artist",
+        "uri" : "spotify:artist:67tgMwUfnmqzYsNAtnP6YJ"
+      } ],
+      "available_markets" : [ "AR", "BO", "CA", "CL", "JP", "PY", "US", "UY" ],
+      "disc_number" : 1,
+      "duration_ms" : 393640,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBAHK9900067"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0KIPa0YuQ5QFmlAqRyXNd9"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0KIPa0YuQ5QFmlAqRyXNd9",
+      "id" : "0KIPa0YuQ5QFmlAqRyXNd9",
+      "name" : "At the River",
+      "popularity" : 38,
+      "preview_url" : "https://p.scdn.co/mp3-preview/c8dd5d517cbd88476978dbc521875eb3e790953c?cid=null",
+      "track_number" : 9,
+      "type" : "track",
+      "uri" : "spotify:track:0KIPa0YuQ5QFmlAqRyXNd9"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/07xbJ7SM1JopFtI1qXvSww"
+          },
+          "href" : "https://api.spotify.com/v1/artists/07xbJ7SM1JopFtI1qXvSww",
+          "id" : "07xbJ7SM1JopFtI1qXvSww",
+          "name" : "Mini Mansions",
+          "type" : "artist",
+          "uri" : "spotify:artist:07xbJ7SM1JopFtI1qXvSww"
+        } ],
+        "available_markets" : [ "CA", "MX", "US" ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3HCyJcodj8D3Bl0pSr9QFk"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3HCyJcodj8D3Bl0pSr9QFk",
+        "id" : "3HCyJcodj8D3Bl0pSr9QFk",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/23d045611c968d268d7895c1d3d9008560b7d86d",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/da63f34e903d39a3b2779f8ddb98fcd2ce90b79e",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/81316a8be82a032080edfd26b4b47520e7d03004",
+          "width" : 64
+        } ],
+        "name" : "The Great Pretenders",
+        "type" : "album",
+        "uri" : "spotify:album:3HCyJcodj8D3Bl0pSr9QFk"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/07xbJ7SM1JopFtI1qXvSww"
+        },
+        "href" : "https://api.spotify.com/v1/artists/07xbJ7SM1JopFtI1qXvSww",
+        "id" : "07xbJ7SM1JopFtI1qXvSww",
+        "name" : "Mini Mansions",
+        "type" : "artist",
+        "uri" : "spotify:artist:07xbJ7SM1JopFtI1qXvSww"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5Dg7iU37SWhTZc8Pyh23DT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5Dg7iU37SWhTZc8Pyh23DT",
+        "id" : "5Dg7iU37SWhTZc8Pyh23DT",
+        "name" : "Alex Turner",
+        "type" : "artist",
+        "uri" : "spotify:artist:5Dg7iU37SWhTZc8Pyh23DT"
+      } ],
+      "available_markets" : [ "CA", "MX", "US" ],
+      "disc_number" : 1,
+      "duration_ms" : 297733,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USUM71414939"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3WDDbWHfzCOPJueOjEDYJk"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3WDDbWHfzCOPJueOjEDYJk",
+      "id" : "3WDDbWHfzCOPJueOjEDYJk",
+      "name" : "Vertigo",
+      "popularity" : 37,
+      "preview_url" : "https://p.scdn.co/mp3-preview/38203db2bdb99da16a800fa5af66417c6337a316?cid=null",
+      "track_number" : 6,
+      "type" : "track",
+      "uri" : "spotify:track:3WDDbWHfzCOPJueOjEDYJk"
+    } ],
+    "limit" : 5,
+    "next" : "https://api.spotify.com/v1/search?query=vertigo&type=track&offset=5&limit=5",
+    "offset" : 0,
+    "previous" : null,
+    "total" : 6155
+  }
+}
