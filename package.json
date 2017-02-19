@@ -1,0 +1,11 @@
+{
+  "name": "liri-app",
+  "version": "1.0.0",
+  "description": "liri < siri but > clippy.",
+  "main": "liri.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stephen Woosley",
+  "license": "ISC"
+}
